@@ -1,0 +1,7 @@
+[00:23:12 INFO console] log4js loaded, logging started.
+[00:23:12 INFO main] start loading config files.
+[00:23:12 INFO conf] loading /Users/yli/DevCamp/flight/etc/log.json
+[00:23:12 INFO conf] \==> group log
+[00:23:12 INFO main] all config files loaded.
+[00:23:15 INFO main] get file =>./raw/2014-03-26_00_23_12.html with code:  0
+[00:23:17 INFO main] all done

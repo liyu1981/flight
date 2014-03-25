@@ -1,0 +1,16 @@
+{
+  "name": "flight",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liyu",
+  "license": "ISC",
+  "dependencies": {
+    "rask": "git://github.com/liyu1981/rask.git",
+    "jquery": "^2.1.0",
+    "jsdom": "^0.10.3"
+  }
+}
